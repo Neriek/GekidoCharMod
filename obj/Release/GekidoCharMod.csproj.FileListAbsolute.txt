@@ -1,0 +1,10 @@
+c:\Users\nerie\Documents\Visual Studio 2015\Projects\GekidoCharMod\GekidoCharMod\bin\Release\GekidoCharMod.exe.config
+c:\Users\nerie\Documents\Visual Studio 2015\Projects\GekidoCharMod\GekidoCharMod\bin\Release\GekidoCharMod.exe
+c:\Users\nerie\Documents\Visual Studio 2015\Projects\GekidoCharMod\GekidoCharMod\bin\Release\GekidoCharMod.pdb
+c:\Users\nerie\Documents\Visual Studio 2015\Projects\GekidoCharMod\GekidoCharMod\bin\Release\Memory.dll
+c:\Users\nerie\Documents\Visual Studio 2015\Projects\GekidoCharMod\GekidoCharMod\bin\Release\Memory.xml
+c:\Users\nerie\Documents\Visual Studio 2015\Projects\GekidoCharMod\GekidoCharMod\obj\Release\GekidoCharMod.Form1.resources
+c:\Users\nerie\Documents\Visual Studio 2015\Projects\GekidoCharMod\GekidoCharMod\obj\Release\GekidoCharMod.Properties.Resources.resources
+c:\Users\nerie\Documents\Visual Studio 2015\Projects\GekidoCharMod\GekidoCharMod\obj\Release\GekidoCharMod.csproj.GenerateResource.Cache
+c:\Users\nerie\Documents\Visual Studio 2015\Projects\GekidoCharMod\GekidoCharMod\obj\Release\GekidoCharMod.exe
+c:\Users\nerie\Documents\Visual Studio 2015\Projects\GekidoCharMod\GekidoCharMod\obj\Release\GekidoCharMod.pdb
